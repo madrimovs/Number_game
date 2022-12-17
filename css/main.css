@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 50%;
+    margin: auto;
+}
+.text{
+    margin-top: 25%;
+}
+.form{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.reset{
+    margin-top: 20px;
+}
